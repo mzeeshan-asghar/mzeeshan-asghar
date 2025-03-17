@@ -1,6 +1,8 @@
 # Zeeshan Asghar
 
-I'm a web developer with over 2 years of experience working with the MERN stack. I love building responsive, fast web applications that look great and work even better. Using tools like React, Next.js, Node.js, and Express.js, I turn ideas into smooth, user-friendly experiences.
+I'm a Full-Stack Web Developer with 2+ years of experience working with the MERN stack. I specialize in React.js, Next.js, Node.js, Express.js, GraphQL, REST APIs, and cloud solutions.
+
+I love building fast, responsive web applications that not only look great but also deliver smooth, high-performance experiences. I focus on writing clean, efficient code, following best practices, and solving complex problems to create seamless user interactions.
 
 ## Skills and Experience
 
